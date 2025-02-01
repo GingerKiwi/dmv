@@ -7,7 +7,11 @@ GI Object List. Also, for people who are Both GIs/Docents
 
 Q. Yes or no I could be either a GI or a Docent with this list: GI Only
 
-		
+	| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+	
 
 | ---   | GI Object     | Gallery/Stop where I usually do it |
 | ---   | !---------- | !------------------------------------------------------- |
