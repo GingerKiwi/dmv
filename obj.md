@@ -10,6 +10,7 @@ Q. Yes or no I could be either a GI or a Docent with this list: GI Only
 | ... | GI Object     | Gallery and Stop where I usually do it |
 |  ---   | --- | --- |
 | 1.  | Stromatolites | Dawn of Life  inside the gallery in the corner  |
+| 2.  |  Mail armour | European Gallery  Earl of Pembroke's Armour  |
 
 | ... | GI Object     | Gallery/Stop where I usually do it |
 | ___ | --- | --- |
