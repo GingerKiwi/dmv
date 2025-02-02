@@ -7,6 +7,10 @@ GI Object List. Also, for people who are Both GIs/Docents
 
 Q. Yes or no I could be either a GI or a Docent with this list: GI Only
 
+| ... | GI Object     | Gallery and Stop where I usually do it |
+|  ---   | --- | --- |
+| 1.  | Stromatolites | Dawn of Life  inside the gallery in the corner  |
+
 | ... | GI Object     | Gallery/Stop where I usually do it |
 | ___ | --- | --- |
 | 1. | Stromatolites    | Dawn of Life  inside the gallery in the corner      |
